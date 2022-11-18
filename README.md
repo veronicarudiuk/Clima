@@ -1,3 +1,4 @@
+# Clima
 
 App to check the weather for the current location based on the GPS data or by searching for a city manually. 
 
